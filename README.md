@@ -24,7 +24,7 @@
 
 ### 📄 Documents de Synthèse
 
-* **[CV (1).pdf](https://github.com/user-attachments/files/25139367/CV.1.pdf) :** Un aperçu détaillé de ma formation, de mes expériences en tant qu'opérateur de services numériques et stagiaire en digitalisation, ainsi que mes compétences techniques (Fullstack, POO, Systèmes).
+* **[CV.pdf](https://github.com/user-attachments/files/25139367/CV.1.pdf) :** Un aperçu détaillé de ma formation, de mes expériences en tant qu'opérateur de services numériques et stagiaire en digitalisation, ainsi que mes compétences techniques (Fullstack, POO, Systèmes).
 
 
 
@@ -124,8 +124,8 @@ Voici les trois projets phares démontrant ma capacité à concevoir et dévelop
 
 
 
-* **LinkedIn :** [Safouane Bousakhra](https://www.google.com/search?q=https://www.linkedin.com/in/votre-profil) 
+* **LinkedIn :** [Safouane Bousakhra](https://www.linkedin.com/in/safouane-bousakhra-3060a1213) 
 
 
 
-* **GitHub :** [@safouane1507](https://www.google.com/search?q=https://github.com/safouane1507)
+* **GitHub :** [@safouane1507](https://github.com/safouane1507)
